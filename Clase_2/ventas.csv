@@ -1,0 +1,11 @@
+﻿id_venta,fecha,id_cliente,producto,cantidad,precio_unitario,total
+1001,2026-09-01,C001,Laptop Pro 14,1,1250.0,1250.0
+1002,2026-09-02,C002,Mouse Inalámbrico,2,25.5,51.0
+1003,2026-09-03,C003,Teclado Mecánico,1,89.9,89.9
+1004,2026-09-04,C001,Monitor 24 pulgadas,2,210.0,420.0
+1005,2026-09-05,C004,Auriculares Bluetooth,1,65.0,65.0
+1006,2026-09-06,C005,Webcam HD,3,45.0,135.0
+1007,2026-09-07,C002,Disco SSD 1TB,1,110.0,110.0
+1008,2026-09-08,C006,Tablet 10 pulgadas,1,320.0,320.0
+1009,2026-09-09,C003,Mouse Inalámbrico,1,25.5,25.5
+1010,2026-09-10,C007,Impresora Multifunción,1,180.0,180.0
