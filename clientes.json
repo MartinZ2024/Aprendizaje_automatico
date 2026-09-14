@@ -1,0 +1,51 @@
+[
+  {
+    "id_cliente": "C001",
+    "nombre": "Ana García",
+    "email": "ana.garcia@example.com",
+    "telefono": "11-5555-0101",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "id_cliente": "C002",
+    "nombre": "Bruno López",
+    "email": "bruno.lopez@example.com",
+    "telefono": "11-5555-0102",
+    "ciudad": "La Plata"
+  },
+  {
+    "id_cliente": "C003",
+    "nombre": "Carla Martínez",
+    "email": "carla.martinez@example.com",
+    "telefono": "11-5555-0103",
+    "ciudad": "Rosario"
+  },
+  {
+    "id_cliente": "C004",
+    "nombre": "Diego Fernández",
+    "email": "diego.fernandez@example.com",
+    "telefono": "11-5555-0104",
+    "ciudad": "Córdoba"
+  },
+  {
+    "id_cliente": "C005",
+    "nombre": "Elena Rodríguez",
+    "email": "elena.rodriguez@example.com",
+    "telefono": "11-5555-0105",
+    "ciudad": "Mendoza"
+  },
+  {
+    "id_cliente": "C006",
+    "nombre": "Federico Sosa",
+    "email": "federico.sosa@example.com",
+    "telefono": "11-5555-0106",
+    "ciudad": "Mar del Plata"
+  },
+  {
+    "id_cliente": "C007",
+    "nombre": "Gabriela Torres",
+    "email": "gabriela.torres@example.com",
+    "telefono": "11-5555-0107",
+    "ciudad": "Buenos Aires"
+  }
+]
