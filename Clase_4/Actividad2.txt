@@ -10,3 +10,5 @@ Como la salida es discreta, asignaremos los siguientes valores a las etiquetas:
 1 – Macintosh
 2 -Linux
 Tu tarea es crear una Jupyter Notebook Regresion_logistica.ipynb que permita predecir qué sistema operativo utiliza un usuario según los datos de entrada
+¿Cómo pudiste llevar adelante esta actividad? te pareció muy difícil o muy fácil? ¿por qué? Por favor compartí tu respuesta en el foro del Campus
+La actividad se llevó a cabo por partes, me pareció difícil la parte de programación, especialmente con el uso de funciones necesarias para llevar a cabo la tarea, teniendo que acudir a la IA como herramienta de apoyo. Mencionar también que fue interesante porque pude comprender mejor cómo se prepara un conjunto de datos y cómo se utiliza un modelo de aprendizaje automático para realizar una clasificación.
