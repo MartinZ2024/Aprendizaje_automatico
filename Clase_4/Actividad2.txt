@@ -1,1 +1,12 @@
-
+Te proponemos entonces que realices ahora la siguiente actividad con los conceptos leídos anteriormente.
+Para esta actividad se ha creado un archivo usuarios_win_mac_lin.csv con datos de entrada a modo de ejemplo para clasificar si el usuario que visita unsitio web usa como sistema operativo Windows, Macintosh o Linux.
+Nuestra información de entrada son 4 características que se tomó de una web que utiliza Google Analytics y son:
+● Duración de la visita en Segundos
+● Cantidad de Páginas Vistas durante la Sesión
+● Cantidad de Acciones del usuario (click, scroll, uso de checkbox, sliders,etc)
+● Suma del Valor de las acciones (cada acción lleva asociada una valoración de importancia)
+Como la salida es discreta, asignaremos los siguientes valores a las etiquetas:
+0 – Windows
+1 – Macintosh
+2 -Linux
+Tu tarea es crear una Jupyter Notebook Regresion_logistica.ipynb que permita predecir qué sistema operativo utiliza un usuario según los datos de entrada
